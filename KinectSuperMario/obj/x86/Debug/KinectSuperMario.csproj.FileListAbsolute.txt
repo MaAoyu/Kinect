@@ -1,0 +1,78 @@
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\App.g.cs
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+C:\Users\lenovo\Desktop\HCI\kinect\Kinect+Project+-+v0.1\Chapter 11\KinectSuperMario - 副本\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\新建文件夹\prj_2\PPT\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\新建文件夹\prj_2\PPT\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+C:\Users\lenovo\Desktop\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\lenovo\Desktop\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\bin\Debug\KinectSuperMario.exe
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\bin\Debug\KinectSuperMario.pdb
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csprojResolveAssemblyReference.cache
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\MainWindow.baml
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\MainWindow.g.cs
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\App.g.cs
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario_MarkupCompile.cache
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.g.resources
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.Properties.Resources.resources
+D:\my document\大二下学期\HCI\Final_prj\1352839_饶伊文_pptcontroller\1352839_饶伊文_pptcontroller\src\KinectSuperMario\obj\x86\Debug\KinectSuperMario.csproj.GenerateResource.Cache
+C:\Users\Ma\Desktop\document\kinect\KinectSuperMario\obj\x86\Debug\KinectSuperMario.exe
+C:\Users\Ma\Desktop\document\kinect\KinectSuperMario\obj\x86\Debug\KinectSuperMario.pdb
